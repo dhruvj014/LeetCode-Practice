@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
