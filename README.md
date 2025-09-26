@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
+| [2050-count-good-numbers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
