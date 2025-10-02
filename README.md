@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
 | [2050-count-good-numbers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2050-count-good-numbers) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Recursion
