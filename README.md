@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
