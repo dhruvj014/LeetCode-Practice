@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
