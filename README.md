@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0242-valid-anagram) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0204-count-primes) |
