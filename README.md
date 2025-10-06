@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 ## Enumeration
 |  |
