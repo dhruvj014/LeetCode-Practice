@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0136-single-number) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -192,5 +196,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
