@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -239,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
