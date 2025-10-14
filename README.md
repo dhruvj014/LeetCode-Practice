@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
