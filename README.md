@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -302,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
