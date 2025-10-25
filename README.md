@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0061-rotate-list) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0402-remove-k-digits) |
