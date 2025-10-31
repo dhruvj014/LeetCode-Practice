@@ -69,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2050-count-good-numbers) |
 ## Two Pointers
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1127-last-stone-weight) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -320,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -433,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
