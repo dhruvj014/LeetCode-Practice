@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0943-sum-of-subarray-minimums) |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0890-lemonade-change) |
 ## Quickselect
