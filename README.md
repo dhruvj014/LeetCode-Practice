@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
+| [1036-rotting-oranges](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
