@@ -1,29 +1,28 @@
-class Solution:
-    def dfs(self, node, adj, vis, pathvis,check):
-        vis[node] = 1
-        pathvis[node] = 1
-        check[node] = 0
-        for neighbour in adj[node]:
-            if vis[neighbour] == 0:
-                if self.dfs(neighbour, adj, vis, pathvis,check):
-                    return True
-            else:
-                if pathvis[neighbour] == 1:
-                    return True
-        check[node] = 1
-        pathvis[node] = 0
-        return False
-            
+class Solution:            
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
         V = len(graph)
-        vis = [0]*V
-        pathvis = [0]*V
-        check = [0]*V
+        adjRev = [[] for _ in range(V)]
+        indegree = [0] * V
+
         for i in range(V):
-            if vis[i]==0:
-                self.dfs(i, graph, vis, pathvis,check)
-        sol = []
+            for it in graph[i]:
+                adjRev[it].append(i)
+                indegree[i] += 1
+
+        q = deque()
+        safeNodes = []
+
         for i in range(V):
-            if check[i] == 1:
-                sol.append(i)
-        return sol
+            if indegree[i] == 0:
+                q.append(i)
+
+        while q:
+            node = q.popleft()
+            safeNodes.append(node)
+            for it in adjRev[node]:
+                indegree[it] -= 1
+                if indegree[it] == 0:
+                    q.append(it)
+
+        safeNodes.sort()
+        return safeNodes
