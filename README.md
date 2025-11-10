@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1127-last-stone-weight) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0735-asteroid-collision) |
+| [0794-swim-in-rising-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0890-lemonade-change) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0794-swim-in-rising-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0854-making-a-large-island) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1073-number-of-enclaves) |
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0854-making-a-large-island) |
@@ -542,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1073-number-of-enclaves) |
