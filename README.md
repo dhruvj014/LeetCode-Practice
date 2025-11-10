@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0876-hand-of-straights) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -498,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -531,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
