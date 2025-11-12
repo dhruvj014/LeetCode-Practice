@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0130-surrounded-regions) |
