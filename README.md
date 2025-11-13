@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0542-01-matrix) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
