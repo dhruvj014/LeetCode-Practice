@@ -14,6 +14,4 @@ class Solution:
         return dp[m]
     def minDistance(self, word1: str, word2: str) -> int:
         lcp = self.longestCommonSubsequence(word1, word2)
-        imp = max(len(word1),len(word2))
-        unimp = min(len(word1),len(word2))
-        return (imp - lcp) + (unimp - lcp)
+        return len(word1) + len(word2) - 2*lcp
