@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1250-longest-common-subsequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
