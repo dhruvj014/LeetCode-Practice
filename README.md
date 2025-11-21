@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0312-burst-balloons](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0516-longest-palindromic-subsequence) |
