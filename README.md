@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0312-burst-balloons) |
