@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
