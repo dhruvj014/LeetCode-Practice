@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Quickselect
 |  |
 | ------- |
