@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1753-path-with-minimum-effort) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
@@ -639,4 +641,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
