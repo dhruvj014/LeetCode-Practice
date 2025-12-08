@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0130-surrounded-regions) |
