@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2058-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
