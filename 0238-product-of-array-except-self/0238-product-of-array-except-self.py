@@ -1,18 +1,11 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        n = len(nums)
-        sol = [1]*n
-        pref = [1]*n
-        prod = 1
-        for i in range(1,n):
-            prod = prod*nums[i-1]
-            pref[i] = prod
-        suff = [1]*n
-        prod = 1
-        for i in range(n-2,-1,-1):
-            prod = prod*nums[i+1]
-            suff[i] = prod
-        
-        for i in range(n):
-            sol[i] = pref[i]*suff[i]
+        sol = [1]
+        for i in range(1,len(nums)):
+            sol.append(sol[i-1]*nums[i-1])
+        suff = 1
+        for i in range(len(nums)-1,-1,-1):
+            if i+1<len(nums):
+                suff = suff*nums[i+1]            
+            sol[i] = sol[i]*suff
         return sol
