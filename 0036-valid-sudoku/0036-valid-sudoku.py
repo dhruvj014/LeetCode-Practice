@@ -1,39 +1,50 @@
 class Solution:
-    def rowCheck(self,checker:str, board: List[List[str]],i:int,j:int) -> bool:
-        for val in range(9):
-            if board[i][val] == checker and val != j:
-                return False
-        return True
-    
-    def colCheck(self,checker:str, board: List[List[str]],i:int,j:int) -> bool:
-        for val in range(9):
-            if board[val][j] == checker and val != i:
-                return False
-        return True
-    
-    def boxCheck(self,checker:str, board: List[List[str]],i:int,j:int) -> bool:
-        tracker = []
-        boxi = (i // 3)*3
-        boxj = (j // 3)*3
-        for i in range(boxi,boxi+3):
-            for j in range(boxj,boxj+3):
-                key = board[i][j]
-                if key in tracker:
+    def validRow(self,row):
+        track = [0]*9
+        for i in row:
+            if i.isnumeric():
+                n = int(i)
+                if track[n-1] == 0:
+                    track[n-1] += 1
+                else:
                     return False
-                if key != ".":
-                    tracker.append(key)
         return True
-
+    def validCol(self,board,j):
+        track = [0]*9
+        for row in board:
+            if row[j].isnumeric():
+                n = int(row[j])
+                if track[n-1] == 0:
+                    track[n-1] += 1
+                else:
+                    return False
+        return True
+    def validBox(self,board,i,j):
+        row1 = (i//3)*3
+        col1 = (j//3)*3
+        track = [0]*9
+        for row in range(row1,row1+3):
+            for col in range(col1,col1+3):
+                if board[row][col].isnumeric():
+                    n = int(board[row][col])
+                    if track[n-1] == 0:
+                        track[n-1] += 1
+                    else:
+                        return False
+        return True
     def isValidSudoku(self, board: List[List[str]]) -> bool:
+        rows = [-1]*9
+        cols = [-1]*9
+        box = [-1]*9
         for i in range(9):
             for j in range(9):
-                checker = board[i][j]
-                if checker == ".":
-                    continue
-                if not self.rowCheck(checker,board,i,j):
+                if rows[i]==-1 and not self.validRow(board[i]):
                     return False
-                if not self.colCheck(checker,board,i,j):
+                rows[i] = 1
+                if cols[j]==-1 and not self.validCol(board,j):
                     return False
-                if not self.boxCheck(checker,board,i,j):
+                num = (i//3)*3 + (j//3)
+                if box[num] == -1 and not self.validBox(board,i,j):
                     return False
+                box[num] = 1
         return True
