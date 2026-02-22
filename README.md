@@ -658,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
