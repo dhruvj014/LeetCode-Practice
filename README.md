@@ -673,5 +673,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-product-price-at-a-given-date](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1292-immediate-food-delivery-ii) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
