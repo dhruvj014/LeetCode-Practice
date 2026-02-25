@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0596-classes-with-at-least-5-students) |
 | [1153-product-sales-analysis-i](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1258-article-views-i) |
+| [1278-product-price-at-a-given-date](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1292-immediate-food-delivery-ii) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
