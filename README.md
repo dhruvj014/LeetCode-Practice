@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1250-longest-common-subsequence) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1753-path-with-minimum-effort) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0268-missing-number) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dhruvj014/LeetCode-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dhruvj014/LeetCode-Practice/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Depth-First Search
 |  |
 | ------- |
