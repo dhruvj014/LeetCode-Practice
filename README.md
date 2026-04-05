@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/dhruvj014/LeetCode-Practice/tree/master/0735-asteroid-collision) |
